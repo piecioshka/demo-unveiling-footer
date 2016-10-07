@@ -1,0 +1,77 @@
+@media screen {
+    body {
+        margin: 0;
+        font-family: "Abadi MT Condensed Extra Bold", sans-serif;
+    }
+
+    main {
+        width: 960px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    header {
+        height: 300px;
+        background: #6C7068;
+        padding: 0 50px;
+        display: flex;
+        align-content: center;
+    }
+
+    header > h1 {
+        margin: auto;
+        font-size: 5vw;
+    }
+
+    article {
+        margin-bottom: 300px;
+        text-align: justify;
+        background: #D9D9DA;
+        padding: 50px;
+
+        position: relative;
+    }
+
+    article > p {
+        font-size: 2vw;
+    }
+
+    footer {
+        width: inherit;
+        height: 300px;
+        line-height: 300px;
+        background: #10100E;
+
+        position: fixed;
+        bottom: 0;
+        left: auto;
+        right: auto;
+        z-index: -1;
+    }
+
+    footer > span {
+        font-size: 50px;
+    }
+
+    footer > span > a {
+        color: #F1F2F2;
+    }
+
+    footer > span > a:hover {
+        color: #543524;
+    }
+}
+
+@media (max-width: 960px) {
+    main {
+        width: 100%;
+    }
+
+    header > h1 {
+        font-size: 10vw;
+    }
+
+    article > p {
+        font-size: 5vw;
+    }
+}
