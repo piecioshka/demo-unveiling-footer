@@ -1,10 +1,10 @@
 # concept-unveiling-footer
 
-> :fish: Concept of unveiling footer by CSS (without JavaScript)
+:fish: Concept of unveiling footer by CSS (without JavaScript)
 
-## Demo
+## Preview 🎉
 
-Link: https://piecioshka.github.io/concept-unveiling-footer/
+https://piecioshka.github.io/concept-unveiling-footer/
 
 ![](./demo.gif)
 
