@@ -1,6 +1,6 @@
 # demo-unveiling-footer
 
-:fish: Concept of unveiling footer by CSS (without JavaScript)
+🚁 Concept of unveiling footer by CSS (without JavaScript)
 
 ## Preview 🎉
 
