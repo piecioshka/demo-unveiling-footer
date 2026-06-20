@@ -14,4 +14,4 @@ https://color.adobe.com/pl/grue-blanche-lumineux-color-theme-8694544/
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
